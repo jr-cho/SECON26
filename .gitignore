@@ -1,0 +1,23 @@
+# macOS system files
+.DS_Store
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# C/C++ object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+
+# Log files
+*.log
+
+# Temporary files (editor backups, swap files, etc.)
+*~
+*.swp
+
