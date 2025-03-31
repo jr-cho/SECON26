@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "fd5de750bcdd81ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b89be7963cf090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81074b5fe9467541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - MECHANICAL/MECHANICAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MECHANICAL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f068417e9b58695c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4db11f5ef735739e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc26b5012f16a823",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01842a2b616560e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "671f124a12e44ea8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f610c4225571c7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00283d23c0f1b29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a75904c6547035d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 - MECHANICAL/MECHANICAL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MECHANICAL"
+            }
+          },
+          {
+            "id": "2ebae255d260fbe7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05 - MECHANICAL/MECHANICAL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MECHANICAL"
+            }
+          },
+          {
+            "id": "3e8f441e1891e62e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e544c887cd018a4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05 - MECHANICAL/MECHANICAL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MECHANICAL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "81074b5fe9467541",
+  "lastOpenFiles": [
+    "04 - SOFTWARE/SOFTWARE.md",
+    "03 - ELECTRICAL/ELECTRICAL.md",
+    "02 - SUBSYSTEMS/SUBSYSTEMS.md",
+    "00 - MAIN/OBJECTIVE.md",
+    "01 - PARTS/PARTS.md",
+    "01 - PARTS/02 - UAV PARTS.md",
+    "01 - PARTS/01 - HELPER BOT PARTS.md",
+    "01 - PARTS/00 - MAIN BOT PARTS.md",
+    "05 - MECHANICAL/MECHANICAL.md",
+    "2025-03-30.md",
+    "06 - ARCHIVE"
+  ]
+}
