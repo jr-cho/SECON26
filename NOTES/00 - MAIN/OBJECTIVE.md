@@ -24,9 +24,68 @@
 
 ## Subsystems
 ---
-### 1. Drive Train
+### Core Movement and Navigation
 
-### 2. Suspension
+1. Drivetrain system
+2. Path planning system
 
-### 3. 
+### Astro-Duck Rescue
 
+1. Duck Detection System (Path planning system)
+2. Duck collection system
+3. Duck drop off system
+
+### Antenna Interaction
+
+1. Antenna #1
+	- Press Button
+2. Antenna #2
+	- Crank Arm
+3. Antenna #3
+	- Precision Grabber
+4. Antenna #4
+	- Keypad Entry Mechanism
+
+### UAV Task
+
+1. Must Launch 15" x 15" away from the main bot
+2. UAV LED Detection
+3. UAV Communication Subsystem
+4. UAV Recovery Mechanism
+
+## Starting & Timing
+
+1. Detect white start light
+2. Automatically begin without start button
+
+### Utility Subsystem
+
+1. Power Management
+2. State Machine
+3. Telemetry
+
+```
+Robot Subsystems
+├── 1. Core (Essential Movement)
+│   ├── Drivetrain
+│   └── Path Planning
+├── 2. Antenna Tasks (High Scoring)
+│   ├── Button Arm (Antenna 1)
+│   ├── Crank Arm (Antenna 2)
+│   ├── Pressure Grabber (Antenna 3)
+│   └── Keypad Tapper (Antenna 4)
+├── 3. Duck Rescue (Moderate Scoring)
+│   ├── Duck Detection
+│   ├── Duck Collection
+│   └── Duck Drop-off
+├── 4. UAV Tasks (LED Read & Transmit)
+│   ├── UAV Deployment
+│   ├── LED Color Detection
+│   ├── IR Communication
+│   └── UAV Recovery
+​└── 5. Utility Systems (Support)
+    ├── Autonomous Start
+    ├── Power Management
+    ├── Task Coordinator
+    └── Telemetry / Debugging
+```

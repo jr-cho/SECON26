@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"bb9bafb894d220d2","type":"text","text":"[[SOFTWARE]]","x":-380,"y":-340,"width":250,"height":60,"color":"#9446f8"},
+		{"id":"34d6825029628125","type":"text","text":"FLYING MOVEMENT","x":370,"y":18,"width":250,"height":60,"color":"#9446f8"},
+		{"id":"8702d601ac418a23","type":"text","text":"LAND MOVEMENT","x":-130,"y":18,"width":250,"height":60,"color":"#9446f8"},
+		{"id":"8d0ea23645e4ecf2","type":"text","text":"[[DRIVE TRAIN]]","x":120,"y":-160,"width":250,"height":60,"color":"#9446f8"},
+		{"id":"04fbd810eab1aa31","type":"text","text":"ROBOT VISION","x":-820,"y":-160,"width":250,"height":60,"color":"#6831ae"},
+		{"id":"d997eb2cc6405ed3","x":-570,"y":18,"width":250,"height":60,"color":"#6931af","type":"text","text":"FRONT FACING CAMERA??"},
+		{"id":"09c3a6d49dc91580","x":-1070,"y":18,"width":250,"height":60,"color":"#6831ae","type":"text","text":"DRONE"}
+	],
+	"edges":[
+		{"id":"aaa2902d031dca98","fromNode":"bb9bafb894d220d2","fromSide":"bottom","toNode":"8d0ea23645e4ecf2","toSide":"top"},
+		{"id":"245240b62d8b2f0d","fromNode":"bb9bafb894d220d2","fromSide":"bottom","toNode":"04fbd810eab1aa31","toSide":"top"},
+		{"id":"d9e8d61ed97749c4","fromNode":"8d0ea23645e4ecf2","fromSide":"bottom","toNode":"8702d601ac418a23","toSide":"top"},
+		{"id":"7724eda1ea821590","fromNode":"8d0ea23645e4ecf2","fromSide":"bottom","toNode":"34d6825029628125","toSide":"top"},
+		{"id":"b6e012bd6ee4d332","fromNode":"04fbd810eab1aa31","fromSide":"bottom","toNode":"09c3a6d49dc91580","toSide":"top"},
+		{"id":"ffdc537304d67182","fromNode":"04fbd810eab1aa31","fromSide":"bottom","toNode":"d997eb2cc6405ed3","toSide":"top"}
+	]
+}

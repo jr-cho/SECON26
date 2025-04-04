@@ -6,14 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "SOFTWARE",
+      "color": {
+        "a": 1,
+        "rgb": 9717496
+      }
+    },
+    {
+      "query": "ELECTRICAL",
+      "color": {
+        "a": 1,
+        "rgb": 4422899
+      }
+    },
+    {
+      "query": "MECHANICAL",
+      "color": {
+        "a": 1,
+        "rgb": 13193709
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.4984130859375,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
