@@ -13,8 +13,6 @@
 > **Robot** must not exceed more than 25 pounds
 > **UAV** must not exceed more than 0.55 pounds or 250 grams
 
-
-
 ```
 Robot Subsystems
 ├── 1. Core (Essential Movement)
