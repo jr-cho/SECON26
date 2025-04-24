@@ -160,19 +160,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "0e1fe5cc2c783d72",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f351bb0e5f0552a4",
+  "active": "710c43fcafba94b8",
   "lastOpenFiles": [
     "02 - SUBSYSTEMS/SUBSYSTEMS.md",
     "03 - ELECTRICAL/ELECTRICAL.md",
