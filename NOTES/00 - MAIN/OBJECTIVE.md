@@ -1,9 +1,14 @@
 
-> [!OBJECTIVE]
-> 1. Locate and rescue the Astro-Ducks
-> 2. Establish communication with the Earth
-> 3. Restore power to the antennas
-> 4. Communicate the antennas' LED color to the Earth
+> [!OBJECTIVES]
+> - Collect 6 ducks, 1 of which is on top of Antenna #3. Deliver them to the Echo Base.
+> - Press a button 3 times to activate. (To activate antenna 1)
+> - Rotate a crank 540° (clockwise or counterclockwise). (To activate antenna 2)
+> - Remove a duck from a pressure plate inside a crater. (To activate antenna 3)
+> - Enter the keypad code "73738#" (spells RESET). (To activate antenna 4)
+> - Enter the crater (>25% robot inside), do a lap along the crater wall below a 4” line. (Points)
+> - The robot must deploy the UAV by moving it 15” vertically and horizontally. (Launching Drone)
+> - Ensure the UAV lands back and stays on the robot after the mission. (Lands back in spot)
+> - The robot should start autonomously using an LED trigger. (Start without button)
 
 ## General Vehicle Requirements
 ---
