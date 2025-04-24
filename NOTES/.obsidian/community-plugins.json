@@ -1,9 +1,9 @@
 [
-  "github-sync",
   "calendar",
   "obsidian-kanban",
   "obsidian-icon-folder",
   "obsidian-mind-map",
   "obsidian-latex-suite",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "obsidian-git"
 ]

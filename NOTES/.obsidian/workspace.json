@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc91a0226f60ca74",
+        "id": "67fa2fbedb1d772b",
         "type": "tabs",
         "children": [
           {
-            "id": "3e9c14804c9b147f",
+            "id": "f351bb0e5f0552a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,24 +177,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e9c14804c9b147f",
+  "active": "f351bb0e5f0552a4",
   "lastOpenFiles": [
+    "02 - SUBSYSTEMS/SUBSYSTEMS.md",
+    "03 - ELECTRICAL/ELECTRICAL.md",
+    "Untitled Kanban.md",
+    "04 - SOFTWARE/SOFTWARE.md",
+    "04 - SOFTWARE/DRIVE TRAIN/DRIVE TRAIN.md",
+    "04 - SOFTWARE/00 - WORKFLOW.canvas",
+    "00 - MAIN/OBJECTIVE.md",
     "01 - PARTS/02 - UAV PARTS.md",
     "01 - PARTS/01 - HELPER BOT PARTS.md",
     "01 - PARTS/00 - MAIN BOT PARTS.md",
-    "02 - SUBSYSTEMS/SUBSYSTEMS.md",
     "05 - MECHANICAL/MECHANICAL.md",
-    "00 - MAIN/OBJECTIVE.md",
-    "04 - SOFTWARE/00 - WORKFLOW.canvas",
-    "04 - SOFTWARE/DRIVE TRAIN/DRIVE TRAIN.md",
     "01 - PARTS/PARTS.md",
     "99 - TEMPLATES",
     "Untitled.md",
-    "03 - ELECTRICAL/ELECTRICAL.md",
-    "04 - SOFTWARE/SOFTWARE.md",
     "Tags",
     "04 - SOFTWARE/DRIVE TRAIN",
     "2025-03-30.md",
