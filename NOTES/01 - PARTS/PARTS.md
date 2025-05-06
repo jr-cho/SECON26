@@ -1,9 +1,0 @@
-
-### MAIN BOT
-[[00 - MAIN BOT PARTS]]
-
-### HELPER BOT
-[[01 - HELPER BOT PARTS]]
-
-### UAV BOT
-[[02 - UAV PARTS]]
