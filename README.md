@@ -1,1 +1,1 @@
-# South East Con 2026 Notes usisng Obsidian
+# South East Con 2026
